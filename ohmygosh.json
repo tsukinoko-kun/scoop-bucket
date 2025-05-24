@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tsukinoko-kun/ohmygosh/releases/download/v0.1.0/ohmygosh_0.1.0_windows_amd64.zip",
+            "bin": [
+                "ohmygosh.exe"
+            ],
+            "hash": "ba4bad66fa384612c42f868e791094565ba72465df612c3eaa830efcb9d2b24e"
+        },
+        "arm64": {
+            "url": "https://github.com/tsukinoko-kun/ohmygosh/releases/download/v0.1.0/ohmygosh_0.1.0_windows_arm64.zip",
+            "bin": [
+                "ohmygosh.exe"
+            ],
+            "hash": "8ed30187596b782a7b1df6331d406e3c068e5c8eb78afd43b5464e198ccdffdc"
+        }
+    },
+    "homepage": "https://github.com/tsukinoko-kun/ohmygosh",
+    "license": "MIT",
+    "description": "Interactive shell written in Go with a UI inspired by Warp",
+    "depends": [
+        "git"
+    ]
+}
