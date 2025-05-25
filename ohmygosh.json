@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tsukinoko-kun/ohmygosh/releases/download/v1.0.0/ohmygosh_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/tsukinoko-kun/ohmygosh/releases/download/v1.0.1/ohmygosh_1.0.1_windows_amd64.zip",
             "bin": [
                 "ohmygosh.exe"
             ],
-            "hash": "c36900447d5c0f5551e26b5a03ff56338e85b0286c55476d42439e6466764049"
+            "hash": "210830e6a017a2f9099c9818c8e42cb3409d43b70550f18622e395b89d26c46c"
         },
         "arm64": {
-            "url": "https://github.com/tsukinoko-kun/ohmygosh/releases/download/v1.0.0/ohmygosh_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/tsukinoko-kun/ohmygosh/releases/download/v1.0.1/ohmygosh_1.0.1_windows_arm64.zip",
             "bin": [
                 "ohmygosh.exe"
             ],
-            "hash": "e52a7aac89c54b80491bb65fa555de080accab7367a19301f1b797ef24170b5a"
+            "hash": "408ac22c33f7d934e33710d9f3536621808345b825c2fb42d66a3f1512b3eb7b"
         }
     },
     "homepage": "https://github.com/tsukinoko-kun/ohmygosh",
